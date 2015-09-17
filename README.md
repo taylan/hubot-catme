@@ -16,8 +16,15 @@ In hubot project repo, run:
 Then add **hubot-catme** to your `external-scripts.json`:
 
 ```json
-["hubot-catme"]
+[
+  "hubot-catme"
+]
 ```
+
+## Configuration
+
+You need to set the `HUBOT_THE_CAT_API_KEY` environment variable which can be obtained from http://thecatapi.com/api-key-registration.html
+
 
 ## Sample Interaction
 
