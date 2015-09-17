@@ -1,6 +1,9 @@
 # hubot-catme
 
-A hubot script that fetch random cat images
+A hubot script that fetches random cat images.
+
+This script is based on the [hubot-catme](https://github.com/Emile-Filteau/hubot-catme) script by [Emile Filteau](https://github.com/Emile-Filteau).
+It uses an API key so we can have access to all images in The Cat API.
 
 See [`src/catme.coffee`](src/catme.coffee) for full documentation.
 
