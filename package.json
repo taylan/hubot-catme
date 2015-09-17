@@ -1,23 +1,24 @@
 {
-  "name": "hubot-catme",
-  "description": "A hubot script that fetch random cat images",
-  "version": "1.0.0",
-  "author": "Émile Filteau <emile.filteau@gmail.com>",
+  "name": "hubot-catme2",
+  "description": "Catme is the most importantest hubot script. This script is based on hubot-catme but uses an API key to get more images.",
+  "version": "0.0.1",
+  "author": "Taylan Aydinli <taylanaydinli@gmail.com>",
   "license": "MIT",
   "keywords": [
     "hubot",
     "hubot-scripts",
     "cat",
+    "cats",
     "catme",
     "catapi",
     "cat-images"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Emile-Filteau/hubot-catme.git"
+    "url": "git://github.com/taylan/hubot-catme.git"
   },
   "bugs": {
-    "url": "https://github.com/Emile-Filteau/hubot-catme/issues"
+    "url": "https://github.com/taylan/hubot-catme/issues"
   },
   "dependencies": {
     "cheerio": "^0.19.0",
