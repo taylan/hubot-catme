@@ -1,4 +1,4 @@
-# hubot-catme
+# hubot-catme2
 
 A hubot script that fetches random cat images.
 
