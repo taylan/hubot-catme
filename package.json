@@ -1,7 +1,7 @@
 {
   "name": "hubot-catme2",
   "description": "Catme is the most importantest hubot script. This script is based on hubot-catme but uses an API key to get more images.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Taylan Aydinli <taylanaydinli@gmail.com>",
   "license": "MIT",
   "keywords": [

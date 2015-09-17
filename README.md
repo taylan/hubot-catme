@@ -11,13 +11,13 @@ See [`src/catme.coffee`](src/catme.coffee) for full documentation.
 
 In hubot project repo, run:
 
-`npm install hubot-catme --save`
+`npm install hubot-catme2 --save`
 
-Then add **hubot-catme** to your `external-scripts.json`:
+Then add **hubot-catme2** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-catme"
+  "hubot-catme2"
 ]
 ```
 
